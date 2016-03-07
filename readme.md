@@ -15,7 +15,7 @@ We love to see you contribute to the predefined configurations. Feel free to add
 The code below is a useful template file where all the code rules with their allowed values are listed.
 
 
-```
+```yaml
 # Lang  code_rule_name                                set_value   Possible values
 php:
     align_array_elements:                             no_apply    # space, tab
