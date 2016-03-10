@@ -10,7 +10,7 @@ First look if there's a folder available with the preferred configuration for yo
 
 We love to see you contribute to the predefined configurations. Feel free to add new configuration sets that are commonly used or propose a change when you think something should change. Please do include references on why it should change.
 
-+**Would like to contribute and walk things over in real time with us? [Just shoot us a message!](http://codeoversight.com/contact)**
+**Would like to contribute and walk things over in real time with us? [Just shoot us a message!](http://codeoversight.com/contact)**
 
 ## Template file
 
