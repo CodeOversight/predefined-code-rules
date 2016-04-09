@@ -47,7 +47,6 @@ php:
     type_cast_inner_whitespace:                       no_apply    # whitespace, no_space
     use_quotes:                                       no_apply    # single_quotes, double_quotes
     variable_array_index_whitespace:                  no_apply    # whitespace, no_space
-    whitespace_after_control_structure:               no_apply    # no_space, whitespace
     whitespace_after_doc_asterisk:                    no_apply    # single_space, double_space, tab
     whitespace_after_else:                            no_apply    # space, newline, no_space
     whitespace_after_function_open:                   no_apply    # newline, no_space
