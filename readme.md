@@ -52,6 +52,7 @@ php:
     whitespace_after_function_open:                   no_apply    # newline, no_space
     whitespace_after_function:                        no_apply    # newline, double_newline
     whitespace_before_control_structure_brace:        no_apply    # space, newline, no_space
+    whitespace_before_control_structure_parentheses:  no_apply    # no_space, whitespace
     whitespace_before_doc_asterisk:                   no_apply    # space
     whitespace_before_else:                           no_apply    # space, newline, no_space
     whitespace_before_function_brace:                 no_apply    # space, newline, no_space
